@@ -37,7 +37,7 @@ fetch(api_url)
                           <span>${formattedDate}</span>
                           <a href="#"><i class="fas fa-share-alt"></i></a>
                         </div>
-                        <a href="${post.link}" target="_blank">Load More <i class="fas fa-arrow-right"></i></a>
+                        <a href="${post.link}" target="_blank">Learn More <i class="fas fa-arrow-right"></i></a>
                       </div>
                     </div>
       `;
